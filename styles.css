@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Playpen Sans', Verdana, sans-serif, cursive;
+    padding: 5px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #427D9D;
+    color: white;
+    padding: 10px;
+}
+
+h1 {
+    padding-left: 10px;
+}
+
+.menu li {
+    display: inline-block;
+    margin: 5px;
+    padding-right: 10px;
+
+}
+
+a:link {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
