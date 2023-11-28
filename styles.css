@@ -36,3 +36,24 @@ a:link {
 li {
     list-style-type: none;
 }
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+footer li {
+    display: inline-block;
+}
+
+footer a {
+    color: black;
+}
+
+footer ul {
+    padding: 0;
+    margin-bottom: 0;
+}
