@@ -38,9 +38,6 @@ a:link {
     text-decoration: none;
 }
 
-li {
-    list-style-type: none;
-}
 
 .description {
     display: flex;
@@ -73,6 +70,16 @@ li {
     margin: 20px;
     border-radius: 30px;
     border: 10px inset black;
+}
+
+#skills li {
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    list-style-type: none;
 }
 
 footer {
