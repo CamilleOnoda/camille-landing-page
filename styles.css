@@ -63,6 +63,7 @@ a:link {
     justify-content: center;
     flex-direction: column;
     padding-bottom: 50px;
+    overflow: hidden;
 }
 
 .description,.cards {
@@ -89,8 +90,8 @@ a:link {
     width: 400px;
     padding: 20px;
     margin: 20px;
-    border-radius: 30px;
-    border: 10px inset black;
+    border-radius: 95px;
+
 }
 
 #skills li {
