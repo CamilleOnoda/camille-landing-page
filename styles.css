@@ -19,13 +19,21 @@ header {
     padding: 10px;
 }
 
+a {
+    color: white;
+}
+
+a:hover {
+    color: salmon;
+}
+
 .top-cloud {
-    margin-left: 500px;
+    margin-left: 600px;
     margin-top: 30px;
 }
 
 .bottom-cloud {
-    margin-right: 500px;
+    margin-right: 600px;
 }
 
 h1 {
@@ -122,6 +130,10 @@ footer li {
 
 footer a {
     color: black;
+}
+
+footer a:hover {
+    color: azure;
 }
 
 footer ul {
