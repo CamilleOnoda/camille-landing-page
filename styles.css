@@ -140,3 +140,13 @@ footer ul {
     padding: 0;
     margin-bottom: 0;
 }
+
+footer button {
+    background-color: #A9A9A9;
+    font-size: 20px;
+    border: none;
+}
+
+footer button:hover {
+    color: azure;
+}
