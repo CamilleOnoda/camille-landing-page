@@ -19,6 +19,6 @@
 
 <h3>Link to the assigment</h3>
 <a href="https://www.theodinproject.com/lessons/foundations-landing-page">Project: landing page</a>
-<img src="/page.png" alt="Image of camille's landing page">  
+<img src="/landing-page.png" alt="Image of camille's landing page">  
 </body>
 
