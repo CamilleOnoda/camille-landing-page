@@ -152,3 +152,8 @@ footer ul {
     padding: 0;
     margin-bottom: 0;
 }
+
+span {
+    font-family: 'Sacramento', cursive;
+    font-size: 2rem;
+}
